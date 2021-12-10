@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeBlog", "LeBlog\LeBlog.csproj", "{91944B5D-D2B0-4EFD-A6C0-A5623FEBFFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeBlog.Core", "LeBlog.Core\LeBlog.Core.csproj", "{19FCE35F-2277-4FD0-AE5F-6157856D3530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91944B5D-D2B0-4EFD-A6C0-A5623FEBFFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91944B5D-D2B0-4EFD-A6C0-A5623FEBFFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91944B5D-D2B0-4EFD-A6C0-A5623FEBFFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91944B5D-D2B0-4EFD-A6C0-A5623FEBFFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FCE35F-2277-4FD0-AE5F-6157856D3530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FCE35F-2277-4FD0-AE5F-6157856D3530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FCE35F-2277-4FD0-AE5F-6157856D3530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FCE35F-2277-4FD0-AE5F-6157856D3530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1213B9AE-2B20-4EF1-88EF-164D5EAAEE09}
+	EndGlobalSection
+EndGlobal
