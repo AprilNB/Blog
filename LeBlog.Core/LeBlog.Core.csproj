@@ -8,6 +8,8 @@
     <None Remove="Objects\" />
     <None Remove="FluentNHibernate" />
     <None Remove="Mappings\" />
+    <None Remove="Ninject" />
+    <None Remove="Ninject.Web.Common" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Objects\" />
@@ -15,5 +17,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="FluentNHibernate" Version="3.1.0" />
+    <PackageReference Include="Ninject" Version="3.3.4" />
+    <PackageReference Include="Ninject.Web.Common" Version="3.3.2" />
   </ItemGroup>
 </Project>
